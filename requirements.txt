@@ -1,0 +1,9 @@
+pandas==2.2.2
+ta==0.11.0
+numpy==1.26.4
+asyncio==3.4.3
+python-telegram-bot==21.4
+python_bitvavo_api==1.4.2
+requests==2.32.3
+telegram==0.0.1
+python-dateutil==2.9.0.post0
